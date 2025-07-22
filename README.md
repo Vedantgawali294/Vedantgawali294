@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Vedant Gawali 👋</h1>
 
-<p align="center"> 
-  🎓 Computer Engineering Student | 📊 Aspiring Data Analyst & Dashboard Developer<br>
-  Passionate about turning raw data into meaningful insights through Python, SQL, Power BI & Machine Learning
+<p align="center">
+  Data Enthusiast | Python Explorer | BI Dashboard Crafter  
 </p>
 
 ---

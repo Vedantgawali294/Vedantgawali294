@@ -1,4 +1,4 @@
-<h1 align="center">Vedant Gawali 👋</h1>
+<h1 align="center">Hey 👋 I'm Vedant Gawali</h1>
 
 <p align="center">
   Passionate Data Enthusiast | Python & SQL Expert | BI Dashboard Crafter

@@ -1,15 +1,14 @@
-<h1 align="center">Hi there, I'm Vedant Gawali 👋</h1>
+<h1 align="center">Vedant Gawali 👋</h1>
 
 <p align="center">
-  Data Enthusiast | Python Explorer | BI Dashboard Crafter  
+  Passionate Data Enthusiast | Python & SQL Expert | BI Dashboard Crafter
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hey! I’m Vedant — a Computer Engineering student from Pune with a knack for extracting meaning from messy data.  
-Whether it’s building dashboards, automating tasks, or exploring ML — I enjoy creating solutions that are both smart and simple.
+I’m an Computer Engineering student from Pune with a knack for extracting meaning from messy data. Whether it’s building dashboards, automating tasks, or exploring ML — I enjoy creating solutions that are both smart and simple.
 
 ---
 
@@ -34,9 +33,9 @@ Whether it’s building dashboards, automating tasks, or exploring ML — I enjo
 
 ### 🚀 Projects I’m Working On
 
-- 📊 **[Job Insights Dashboard](https://github.com/Vedantgawali294/Streamlit-Job-Dashboard)** – Real-time hiring trends via Streamlit + Python  
-- 🛍️ **[Walmart Sales Analysis](https://github.com/Vedantgawali294/Walmart-Sales-SQL)** – SQL-based business insights  
-- ✈️ **[Airline BI Dashboard](https://github.com/Vedantgawali294/Airline-PowerBI-Dashboard)** – Clean BI dashboard from messy data  
+- 📊 **[Job Insights Dashboard](https://github.com/Vedantgawali294/Streamlit-Job-Dashboard)** – Real-time hiring trends via Streamlit + Python
+- 🛍️ **[Walmart Sales Analysis](https://github.com/Vedantgawali294/Walmart-Sales-SQL)** – SQL-based business insights
+- ✈️ **[Airline BI Dashboard](https://github.com/Vedantgawali294/Airline-PowerBI-Dashboard)** – Clean BI dashboard from messy data
 - 📈 **[Excel Data Analytics](https://github.com/Vedantgawali294/Excel-Data-Analysis)** – Pivot tables + charts to drive decision-making
 
 ---
